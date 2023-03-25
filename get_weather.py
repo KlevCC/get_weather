@@ -1,6 +1,6 @@
 import requests
 
-api_key = "3e29b52cb518a18deeb617af93382433"
+api_key = "YOUR_API_KEY"
 
 def get_weather():
     while True:
